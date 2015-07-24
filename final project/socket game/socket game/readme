@@ -1,0 +1,18 @@
+Junjun Huang
+cs433
+
+
+description
+The game is Rock, Paper and Scissors.
+client connect server and plays game with the server.
+
+
+1. when the client sends username to the server, return ”<name>xxx"
+2. when the client sends his choice to the server, return "<choice>xxx"
+3. Play game
+
+
+instructions
+1. Compile the program with `make`.
+2. Run `./server &` to start the server.
+3. Run up to five client program to play the game with `./client`.
